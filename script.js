@@ -3,6 +3,10 @@
 // Handles: mobile menu toggle, sticky header state, scroll-reveal animations
 // =====================================================================
 
+// Initialize Vercel Web Analytics
+import { inject } from '@vercel/analytics';
+inject();
+
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------------------------------------------------------------

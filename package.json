@@ -1,0 +1,20 @@
+{
+  "name": "leadforgeai",
+  "version": "1.0.0",
+  "description": "LeadForge AI - AI Lead Qualification & Booking Automation",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build step required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "leadforge",
+    "ai",
+    "analytics"
+  ],
+  "author": "LeadForge AI",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
